@@ -1,0 +1,9 @@
+{
+  "name": "pos-ts-react-electron",
+  "version": "1.0.0",
+  "description": "Point of Sales",
+  "main": "electron.js",
+  "repository": "https://github.com/hquach729/pos-ts-react-electron.git",
+  "author": "Hung Quach",
+  "license": "MIT"
+}
